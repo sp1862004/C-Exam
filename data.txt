@@ -1,0 +1,4 @@
+Fruits and their colors:
+Fruit: Apple, Color: Red
+Fruit: Banana, Color: Yellow
+Fruit: Orange, Color: orange
